@@ -135,7 +135,6 @@
       }
     }
     &.algolia-autocomplete-left .ds-dropdown-menu {
-      @include alignment-type(left);
       &:before {
         left: 48px;
       }
